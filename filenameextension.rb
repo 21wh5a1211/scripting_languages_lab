@@ -10,5 +10,5 @@ puts "Base name: "+bname
 ffextn = File.extname  "C:\home\it/hello shivani.rb",".rb"
 puts "Extention: "+ffextn 
 # path name
-path_name= File.dirname  "C:\home\it/hello shivani.rb",".rb"
+path_name= File.dirname  "C:\home\it/21wh5a1211.rb",".rb"
 puts "Path name: "+path_name
